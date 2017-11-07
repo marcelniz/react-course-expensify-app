@@ -9,6 +9,7 @@ body {
 
 button {
   cursor: pointer;
+  transition: all 0.2ms;
 }
 
 button:disabled {
